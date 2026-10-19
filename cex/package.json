@@ -1,0 +1,8 @@
+{
+  "name": "cex",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
